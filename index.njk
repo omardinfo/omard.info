@@ -5,7 +5,8 @@ eleventyNavigation:
   order: 1
 ---
 
-<h1>Donkey</h1>
+<figure><img src="/images/{% if hero %}{{ hero }}{% else %}orb.jpg{% endif %}" width="400" height="300" alt="decoration" /></figure>
+
 
 {% set maxPosts = collections.posts.length | min(3) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
