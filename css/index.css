@@ -183,7 +183,7 @@ pre {
   font-weight: bold;
 }
 .tmpl-home .postlist-link {
-  font-size: 1.9rem; /* 19px /16 */
+  font-size: calc(var(--body-font-size) * 0.86); /* 19px /16 */
   font-weight: 700;
 }
 
