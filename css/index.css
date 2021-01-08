@@ -1,6 +1,8 @@
 :root {
   --red: #C5004A;
   --darkred: #7F0036;
+  --green: #005604;
+  --darkgreen: #002502;
   --lightgray: #e0e0e0;
   --gray: #C0C0C0;
   --darkgray: #333;
@@ -194,7 +196,7 @@ pre {
   font-size: 1.0rem; /* 10px /16 */
   padding: 2px 4px;
   margin-left: 0.8em; /* 8px /10 */
-  background-color: var(--red);
+  background-color: var(--green);
   color: var(--white);
   border-radius: 0.25em; /* 3px /12 */
   text-decoration: none;
