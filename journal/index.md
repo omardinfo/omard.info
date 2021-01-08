@@ -7,4 +7,4 @@ eleventyNavigation:
   order: 4
 ---
 
-wut
+{% include "postslist.njk" %}
