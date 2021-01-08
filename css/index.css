@@ -125,8 +125,8 @@ pre {
 .home {
   padding: 0 1rem;
   float: left;
-  margin: 1rem 0; /* 16px /16 */
-  font-size: 1.6rem; /* 16px /16 */
+  margin: 1rem 0;
+  font-size: 2.8rem;
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -168,7 +168,7 @@ pre {
 }
 .postlist-date,
 .postlist-item:before {
-  font-size: 1.3rem; /* 13px /16 */
+  font-size: 1.3rem;
   color: var(--darkgray);
 }
 .postlist-date {
