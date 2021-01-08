@@ -9,6 +9,7 @@
   --navy: #17050F;
   --blue: #082840;
   --white: #fff;
+  --body-font-size: 2.2rem;
 }
 * {
   box-sizing: border-box;
@@ -22,7 +23,7 @@ body {
   padding: 0;
   margin: 0;
   font-family: system-ui, sans-serif;
-  font-size: 2.2rem;
+  font-size: var(--body-font-size);
   color: var(--darkgray);
   background-color: var(--white);
 }
@@ -126,7 +127,7 @@ pre {
   padding: 0 1rem;
   float: left;
   margin: 1rem 0;
-  font-size: 2.8rem;
+  font-size: var(--body-font-size);
 }
 .home :link:not(:hover) {
   text-decoration: none;
@@ -168,7 +169,7 @@ pre {
 }
 .postlist-date,
 .postlist-item:before {
-  font-size: 1.3rem;
+  font-size: var(--body-font-size);
   color: var(--darkgray);
 }
 .postlist-date {
