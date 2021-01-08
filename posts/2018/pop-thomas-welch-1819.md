@@ -8,4 +8,4 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src="../../img/morris-rockwell.png">
+<img src="../../../img/morris-rockwell.png">
