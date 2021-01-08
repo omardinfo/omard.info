@@ -1,10 +1,12 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: About
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About Me
+  key: About
   order: 2
 ---
 
-I am a person that writes stuff.
+### This is a site dedicated to discovering and preserving the area history of Omard, Michigan—a historical and fading settlement located in the Thumb of Michigan.
+
+#### Omard.info is an ongoing project and we’re constantly adding new information.
