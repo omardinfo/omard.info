@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src="../../../img/morris-rockwell.png">
+<img src="../../../img/morris-rockwell.png" alt="A snippet of a plat map showing Thomas Welch's farm." draggable="false">
 
 ### Thomas Welch 24 Feb 1819 &mdash; ?
 
