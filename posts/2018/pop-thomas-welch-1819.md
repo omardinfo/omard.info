@@ -10,3 +10,4 @@ layout: layouts/post.njk
 
 <img src="../../../img/morris-rockwell.png">
 
+### Thomas Welch 24 Feb 1819 &mdash; ?
