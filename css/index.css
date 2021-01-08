@@ -169,7 +169,7 @@ pre {
 }
 .postlist-date,
 .postlist-item:before {
-  font-size: var(--body-font-size);
+  font-size: calc(var(--body-font-size) * 0.6);
   color: var(--darkgray);
 }
 .postlist-date {
