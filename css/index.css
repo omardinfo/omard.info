@@ -73,7 +73,7 @@ code {
   line-height: 1.5;
 }
 pre {
-  font-size: 1.4rem;
+  font-size: calc(var(--body-font-size) * 0.64);
   line-height: 1.375;
   direction: ltr;
   text-align: left;
@@ -127,7 +127,7 @@ pre {
   padding: 0 1rem;
   float: left;
   margin: 1rem 0;
-  font-size: var(--body-font-size);
+  font-size: calc(var(--body-font-size) * 1.28);
 }
 .home :link:not(:hover) {
   text-decoration: none;
