@@ -9,3 +9,5 @@ layout: layouts/post.njk
 ---
 
 <img src="../../../img/morris-rockwell.png">
+
+<img src="//new.omard.info/img/morris-rockwell.png">
