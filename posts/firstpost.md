@@ -1,7 +1,7 @@
 ---
 title: This is my first post.
 description: This is a post on My Blog about agile frameworks.
-date: 9999-05-01
+date: 2099-05-01
 tags:
   - another-tag
 layout: layouts/post.njk
