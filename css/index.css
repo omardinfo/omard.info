@@ -27,11 +27,20 @@ body {
   font-size: var(--body-font-size);
   color: var(--darkgray);
   background-color: var(--white);
-  background-image: url('../img/bg/omardmapold.jpg');
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
 }
+
+body::after {
+  content: "";
+  background-image: url('../img/bg/omardmapold.jpg');
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
 p:last-child {
   margin-bottom: 0;
 }
