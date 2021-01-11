@@ -33,6 +33,7 @@ body::after {
   content: "";
   background-color: var(--white);
   background-image: url('../img/bg/omardmapold.jpg');
+  background-repeat: repeat-y;
   opacity: 0.05;
   top: 0;
   left: 0;
