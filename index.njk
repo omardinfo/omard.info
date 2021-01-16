@@ -7,6 +7,11 @@ eleventyNavigation:
 
 <!--<figure><img src="/img/{% if hero %}{{ hero }}{% else %}orb.jpg{% endif %}" width="900" height="400" alt="decoration" /></figure>-->
 
+<section>
+
+<img src="./img/orb.jpg">
+
+</section>
 
 {% set maxPosts = collections.posts.length | min(3) %}
 <h1>Latest {% if maxPosts == 1 %}Post{% else %}{{ maxPosts }} Posts{% endif %}</h1>
