@@ -49,7 +49,7 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 56.25rem;
+  max-width: 100rem; /* 56.25 */
 }
 p,
 .tmpl-post li {
@@ -247,4 +247,8 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link,
 :hover > a[href].direct-link:visited {
   color: #aaa;
+}
+
+.main-hero {
+  width: 100%;
 }
