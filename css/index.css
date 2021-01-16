@@ -49,7 +49,7 @@ p:last-child {
 p,
 .tmpl-post li,
 img {
-  max-width: 100rem; /* 56.25 */
+  max-width: 200rem; /* 56.25 */
 }
 p,
 .tmpl-post li {
