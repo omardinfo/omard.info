@@ -254,6 +254,7 @@ a[href].direct-link:focus:visited,
   margin: 0;
   padding: 0;
   background-image: url(../img/corn_wide2.jpg);
+  height: 392px;
   width: 100%;
 }
 
