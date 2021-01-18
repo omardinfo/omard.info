@@ -261,3 +261,11 @@ a[href].direct-link:focus:visited,
   padding: 0;
   max-width: 100%;
 }
+
+.center-hero {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 18px;
+}
