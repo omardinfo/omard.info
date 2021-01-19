@@ -11,6 +11,6 @@ eleventyNavigation:
 
 #### Omard.info is an ongoing project and we’re constantly adding new information.
 
-## Where is Omard?
+## Location
 
 ## Area History
