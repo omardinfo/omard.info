@@ -10,3 +10,7 @@ eleventyNavigation:
 ### This is a site dedicated to discovering and preserving the area history of Omard, Michigan—a historical and fading settlement located in the Thumb of Michigan.
 
 #### Omard.info is an ongoing project and we’re constantly adding new information.
+
+## Where is Omard?
+
+## Area History
