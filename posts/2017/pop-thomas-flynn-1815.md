@@ -14,12 +14,12 @@ I found this interesting information on FindAGrave.com. After reading, I contact
 
 ### William Henry “a.k.a. Thomas Flynn” Ellington
 
-<p>
+<code>
 Birth: Sep. 15, 1815, England
 Death: Oct. 14, 1872
 Sanilac County
 Michigan, USA
-</p>
+</code>
 
 <blockquote>
 <p>William Henry Ellington ran away on 24 May 1829 from the English Army because he was indentured to serve the rest of his life in the Army. He set sail from Plymouth, England on 24 of May 1829; after 9 weeks and 2 days on the ship, he landed in Pickering, Ontario, Canada. Arriving in Canada, he changed his name to Thomas Flynn. He lived there until the fall of 1855. He moved and settled in Lexington, Sanilac County, Michigan. Shortly afterward he moved to Omard Township section 36, which is now Flynn Township. He met Rachel Boothby’s parents on the ship coming to America and he and Rachel married shortly afterward.</p>
