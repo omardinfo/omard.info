@@ -58,7 +58,7 @@ eleventyNavigation:
 
 <a href="https://docs.google.com/spreadsheets/d/1DHt6LQ_o57QMqf9y9txVRvFtYh01Q2KTyTg2tlwCMMM/edit?usp=sharing" target="_blank" class="btn">See List of Pastors</a>
 
-### Cemetery
+### ⚰️ Cemetery
 
 <small>*This is strictly an educational webpage and not the official webpage for the Omard Cemetery. Please refer to <a href="http://flynntownship.org/" target="_blank">FlynnTownship.org</a> for official information.*</small>
 
