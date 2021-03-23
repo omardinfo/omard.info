@@ -56,9 +56,7 @@ eleventyNavigation:
 > The Omard United Methodist Church celebrates their 100th anniversary.
 ---
 
-<button>See List of Pastors</button>
-
-<a href="https://docs.google.com/spreadsheets/d/1DHt6LQ_o57QMqf9y9txVRvFtYh01Q2KTyTg2tlwCMMM/edit?usp=sharing" target="_blank">See List of Pastors</a>
+<a href="https://docs.google.com/spreadsheets/d/1DHt6LQ_o57QMqf9y9txVRvFtYh01Q2KTyTg2tlwCMMM/edit?usp=sharing" target="_blank" class="btn">See List of Pastors</a>
 
 ### Cemetery
 

@@ -272,3 +272,12 @@ a[href].direct-link:focus:visited,
   color: #fff;
   text-shadow: 3px 2px 0px #000;
 }
+
+.btn {
+  border: 2px solid hotpink;
+  background-color: #fff;
+}
+
+.btn:hover {
+  background-color: #eee;
+}
