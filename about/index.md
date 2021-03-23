@@ -66,6 +66,10 @@ Omard Cemetery is <a href="https://www.google.com/maps/dir//Omard+Cemetery,+Brow
 
 ### Country Store
 
+The Omard Country Store (or Murray Blatt’s Store or the Omard Store) building still stands today but has not been in operation for several decades. The longest-owning proprietors of the store were Murray and Myrtle Blatt who owned the store from 1933 to the 1970s.
+
 ### Schoolhouses
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1FIJY0Qy9qYesppZxjcDYJYoFwA0" width="640" height="480"></iframe>
 
 ### Post Office
