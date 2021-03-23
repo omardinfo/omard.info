@@ -274,8 +274,9 @@ a[href].direct-link:focus:visited,
 }
 
 .btn {
-  border: 2px solid hotpink;
+  border: 2px solid black;
   background-color: #fff;
+  padding: 5px;
 }
 
 .btn:hover {
