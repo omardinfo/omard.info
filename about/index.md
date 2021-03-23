@@ -60,9 +60,9 @@ eleventyNavigation:
 
 ### Cemetery
 
-<small>*This is strictly an educational webpage and not the official webpage for the Omard Cemetery. Please refer to FlynnTownship.org for official information.*</small>
+<small>*This is strictly an educational webpage and not the official webpage for the Omard Cemetery. Please refer to <a href="http://flynntownship.org/" target="_blank">FlynnTownship.org</a> for official information.*</small>
 
-Omard Cemetery is located near the northwestern corner of section 35 in Flynn Township. The cemetery was founded sometime in the early 1890s on property that belonged to township resident Hector Snell. The cemetery is currently managed by Flynn Township.
+Omard Cemetery is <a href="https://www.google.com/maps/dir//Omard+Cemetery,+Brown+City,+MI+48416/" target="_blank">located near the northwestern corner of section 35</a> in Flynn Township. The cemetery was founded sometime in the early 1890s on property that belonged to township resident Hector Snell. The cemetery is currently managed by <a href="http://flynntownship.org/" target="_blank">Flynn Township</a>.
 
 ### Country Store
 
