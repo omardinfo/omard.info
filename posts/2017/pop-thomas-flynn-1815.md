@@ -10,7 +10,7 @@ layout: layouts/post.njk
 
 I found this interesting information on FindAGrave.com. After reading, I contacted the author of this post, who is a descendant of the Flynn family via Ruth Ellen Flynn Hook. He gave me permission to re-publish this information and informed me that he got his information from a relative who has since passed.
 
-<img src="../../../img/croppedTHOMASFLYNN.gif" alt="Thoomas Flynn" draggable="false">
+<img src="../../../img/croppedTHOMASFLYNN.gif" alt="Thomas Flynn" draggable="false">
 
 ### William Henry “a.k.a. Thomas Flynn” Ellington
 
