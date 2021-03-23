@@ -11,16 +11,16 @@ eleventyNavigation:
 
 #### Omard.info is an ongoing project and we’re constantly adding new information.
 
-## Location
+## 📌 Location
 *Where is Omard?*
 
-## Area History
+## 📖 Area History
 
-### Church
+### ⛪ Church
 
-*This is strictly an educational webpage and not the official webpage for the Omard Church. Please refer to [Facebook.com/OmardUMC](https://facebook.com/omardumc) for official information.*
+<small>*This is strictly an educational webpage and not the official webpage for the Omard Church. Please refer to [Facebook.com/OmardUMC](https://facebook.com/omardumc) for official information.*</small>
 
-#### Timeline
+#### 📜 Timeline
 
 ##### 1896
 
