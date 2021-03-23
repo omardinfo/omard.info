@@ -60,6 +60,10 @@ eleventyNavigation:
 
 ### Cemetery
 
+<small>*This is strictly an educational webpage and not the official webpage for the Omard Cemetery. Please refer to FlynnTownship.org for official information.*</small>
+
+Omard Cemetery is located near the northwestern corner of section 35 in Flynn Township. The cemetery was founded sometime in the early 1890s on property that belonged to township resident Hector Snell. The cemetery is currently managed by Flynn Township.
+
 ### Country Store
 
 ### Schoolhouses
