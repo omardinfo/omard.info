@@ -18,7 +18,7 @@ eleventyNavigation:
 
 ### ⛪ Church
 
-<small>*This is strictly an educational webpage and not the official webpage for the Omard Church. Please refer to [Facebook.com/OmardUMC](https://facebook.com/omardumc) for official information.*</small>
+<small>*This is strictly an educational webpage and not the official webpage for the Omard Church. Please refer to <a href="https://facebook.com/omardumc" target="_blank">Facebook.com/OmardUMC</a> for official information.*</small>
 
 #### 📜 Timeline
 
