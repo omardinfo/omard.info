@@ -26,7 +26,12 @@ Mr. McKellar is a farmer of more than ordinary abilities and ranks fairly among 
 
 ### Sources
 
->Portrait and Biographical Album of Sanilac County; Containing Portraits and Biographical Sketches of Citizens of the County. Chicago, Chapman Brothers, 1884.
+<blockquote>
+  <ul>
+      <li>Portrait and Biographical Album of Sanilac County; Containing Portraits and Biographical Sketches of Citizens of the County. Chicago, Chapman Brothers, 1884.</li>
+
+  </ul>
+</blockquote>
 ---
 
 <a target="_blank" title="John McKellar on FindAGrave" rel="nofollow noopener" href="https://www.findagrave.com/memorial/184472159">John McKellar on FindAGrave</a>
