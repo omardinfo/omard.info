@@ -284,3 +284,7 @@ a[href].direct-link:focus:visited,
   background-color: #eee;
   text-decoration: underline;
 }
+
+.diamond-marker ul li::marker {
+  content: "💎 ";
+}

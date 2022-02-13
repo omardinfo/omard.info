@@ -26,7 +26,7 @@ Mr. McKellar is a farmer of more than ordinary abilities and ranks fairly among 
 
 ### Sources
 
-<blockquote>
+<blockquote class="diamond-marker">
   <ul>
       <li>Portrait and Biographical Album of Sanilac County; Containing Portraits and Biographical Sketches of Citizens of the County. Chicago, Chapman Brothers, 1884.</li>
 
