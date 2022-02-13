@@ -23,7 +23,8 @@ He was married April 5, 1855, in Middlesex Co., Ont., to Catherine McNeil, who w
 Mr. McKellar is a farmer of more than ordinary abilities and ranks fairly among agriculturalists of Sanilac County. He is a Democrat in political views. He and his wife are members of the Disciples’s Church. His parents were natives of Scotland.
 
 ---
-<i><p>Portrait and Biographical Album of Sanilac County; Containing Portraits and Biographical Sketches of Citizens of the County. Chicago, Chapman Brothers, 1884.</p></i>
+
+>Portrait and Biographical Album of Sanilac County; Containing Portraits and Biographical Sketches of Citizens of the County. Chicago, Chapman Brothers, 1884.
 ---
 
 <a target="_blank" title="John McKellar on FindAGrave" rel="nofollow noopener" href="https://www.findagrave.com/memorial/184472159">John McKellar on FindAGrave</a>
