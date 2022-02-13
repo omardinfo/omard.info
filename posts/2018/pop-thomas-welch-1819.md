@@ -1,6 +1,6 @@
 ---
 title: 'Portraits of Pioneers: Thomas Welch (1819 – ?)'
-description: This is a post on My Blog about agile frameworks.
+description: 
 date: 2018-12-27
 tags:
   - flynn-township
