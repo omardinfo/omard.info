@@ -286,5 +286,5 @@ a[href].direct-link:focus:visited,
 }
 
 .diamond-marker ul li::marker {
-  content: "💎 ";
+  content: "💠 ";
 }
