@@ -8,7 +8,10 @@ tags:
 layout: layouts/post.njk
 ---
 
-<img src="../../../img/mckellarest.jpg" alt="A snippet from an 1894 plat map showing John’s estate. Note: This would be after John had passed, therefore the plat says “John McKellar Est.”" draggable="false">
+<figure>
+<img src="../../../img/mckellarest.jpg" alt="A snippet from an 1894 plat map showing John McKellar's estate." draggable="false">
+<figcaption>A snippet from an 1894 plat map showing John’s estate. Note: This would be after John had passed, therefore the plat says “John McKellar Est.”</figcaption>
+</figure>
 
 ### John McKellar 13 April 1823 — 18 Feb 1885 (aged 61)
 
