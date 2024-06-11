@@ -57,7 +57,7 @@ eleventyNavigation:
 
 - ##### 2023
 
-> **June 30th** — The Omard United Methodist Church disaffiliates from the United Methodist Church and joins the Global Methodist Church denomination. The church is renamed to simply, “Omard Church”.
+> ***June 30th*** — The Omard United Methodist Church disaffiliates from the United Methodist Church and joins the Global Methodist Church denomination. The church is renamed to simply, “Omard Church”.
 
 ---
 
